@@ -1,3 +1,6 @@
 [submodule "iris"]
 	path = iris
 	url = https://github.com/abhi8893/iris-kedro.git
+[submodule "spaceflights"]
+	path = spaceflights
+	url = https://github.com/abhi8893/spaceflights-kedro.git
